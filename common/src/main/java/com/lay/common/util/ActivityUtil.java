@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author sm3243
+ * @author Lay
  */
 public class ActivityUtil {
     private List<Activity> activityList = new ArrayList<>();

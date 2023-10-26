@@ -10,6 +10,7 @@ import java.util.Locale;
  * 输出的log头有链接，可以点击链接到执行代码文件位置
  * 可以直接输出msg,使用默认Tag
  * 支持设置 LEVEL，小于LEVEL级别以下不再打印log
+ * @author Lay
  */
 public class LogUtil {
     private static final String TAG = "LogUtil";

@@ -16,7 +16,7 @@ import com.lay.common.util.ActivityUtil;
 
 
 /**
- * @author sm3243
+ * @author Lay
  */
 public abstract class BaseActivity extends AppCompatActivity {
     private static Toast toast;
